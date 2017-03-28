@@ -1,0 +1,35 @@
+{
+    "name": "Jon",
+    "surname": "Snow",
+    "age": 17,
+    "gender": "male",
+    "email": "youknownothing@jonsnow.com",
+    "phone": {
+        "landline": 166323864,
+        "mobile": 666654654
+    },
+    
+    "address": {
+      "street": "Jakasstreet",
+      "homeNumber": "889",
+      "postalCode": "37-600",
+      "city": "Winterfell"
+    },
+    
+    "interests": [],
+    "family": {
+      "spouse": {
+        "name": "Daenerys",
+        "surname": "Targaryen"
+      },
+      
+      "children": [
+        {
+          "childName": "Hehasnochildren",
+          "surname": "Snow",
+          "gender": "male",
+          "age": 0,
+          "child'sInterests": []
+        }]
+    }
+}

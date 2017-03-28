@@ -1,0 +1,138 @@
+{
+  "persons": [
+    {
+      "name": "Jon",
+      "surname": "Snow",
+      "age": 17,
+      "gender": "male",
+      "email": "youknownothing@jonsnow.com",
+      "phone": {
+        "landline": 166323864,
+        "mobile": 666654654
+      },
+      "address": {
+        "street": "Jakasstreet",
+        "homeNumber": "889",
+        "postalCode": "37-600",
+        "city": "Winterfell"
+      },
+      "interests": [],
+      "family": {
+        "spouse": {
+          "name": "Daenerys",
+          "surname": "Targaryen"
+        },
+        "children": [
+          {
+            "childName": "Hehasnochildren",
+            "surname": "Snow",
+            "gender": "male",
+            "age": 0,
+            "child'sInterests": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "Daenerys",
+      "surname": "Targaryen",
+      "age": 16,
+      "gender": "female",
+      "email": "fireandblood@targaryen.com",
+      "phone": {
+        "landline": 166323864,
+        "mobile": 456123789
+      },
+      "address": {
+        "street": "Jakasstreet",
+        "homeNumber": "889",
+        "postalCode": "37-600",
+        "city": "Winterfell"
+      },
+      "interests": [],
+      "family": {
+        "spouse": {
+          "name": "Jon",
+          "surname": "Snow"
+        },
+        "children": [
+          {
+            "childName": "Shehasnochildren",
+            "surname": "Snow",
+            "gender": "male",
+            "age": 0,
+            "child'sInterests": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "Ned",
+      "surname": "Stark",
+      "age": 33,
+      "gender": "male",
+      "email": "winteriscoming@stark.com",
+      "phone": {
+        "landline": 166323864,
+        "mobile": 789123456
+      },
+      "address": {
+        "street": "Jakasstreet",
+        "homeNumber": "889",
+        "postalCode": "37-600",
+        "city": "Winterfell"
+      },
+      "interests": [],
+      "family": {
+        "spouse": {
+          "name": "Caetlyn",
+          "surname": "Stark"
+        },
+        "children": [
+          {
+            "childName": "Robb",
+            "surname": "Stark",
+            "gender": "male",
+            "age": 17,
+            "child'sInterests": []
+          },
+          {
+            "childName": "Jon",
+            "surname": "Snow",
+            "gender": "male",
+            "age": 17,
+            "child'sInterests": []
+          },
+          {
+            "childName": "Sansa",
+            "surname": "Stark",
+            "gender": "female",
+            "age": 14,
+            "child'sInterests": []
+          },
+          {
+            "childName": "Brandon",
+            "surname": "Stark",
+            "gender": "male",
+            "age": 13,
+            "child'sInterests": []
+          },
+          {
+            "childName": "Arya",
+            "surname": "Stark",
+            "gender": "female",
+            "age": 12,
+            "child'sInterests": []
+          },
+          {
+            "childName": "Rickon",
+            "surname": "Stark",
+            "gender": "male",
+            "age": 9,
+            "child'sInterests": []
+          }
+        ]
+      }
+    }
+  ]
+}
